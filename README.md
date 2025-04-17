@@ -4,17 +4,17 @@
 ---
 
 ## 👨‍💻 About Me:
-- 🔭 I’m currently working on projects that blend **tech & design**
-- 💡 I love building things that **make life easier**
-- 🌱 Always learning — especially **Flutter**, **Kotlin**, and **Cloud Tech**
-- 🎨 I’m also into **UI/UX**, digital art, and making dope designs
-- 🗣 Let's connect: I believe **tech is better together**
+🔭 I’m currently working on projects that blend **tech & design**
+💡 I love building things that **make life easier**
+🌱 Always learning — especially **Flutter**, **Kotlin**, and **Cloud Tech**
+🎨 I’m also into **UI/UX**, digital art, and making dope designs
+🗣 Let's connect: I believe **tech is better together**
 
 ---
 
 ## 🌐 Connect with Me:
 
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/timovibes)  
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/timovibes)
 
 ---
 
@@ -69,16 +69,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=timovibes&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
-
-## 🔥 Visitors Count
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=timovibes&icon=0&color=0" alt="Visitor Count"/>
-  </a>
 </p>
 
 ---
