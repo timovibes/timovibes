@@ -1,5 +1,6 @@
-# 💫 About Me:
-I'm currently working on building InCare, an Android app designed to create a safe, private healthcare space for introverts or those uncomfortable with in-person doctor visits.<br><br>I'm looking to collaborate on telehealth innovations or digital healthcare solutions that emphasize privacy, accessibility, and user-centric design.<br><br>I'm looking for help with expanding features for InCare, such as advanced health tracking and integrating more accessible mental health resources.<br><br>I'm currently learning how technology can reshape healthcare access, focusing on making virtual consultations as effective as face-to-face doctor visits.<br><br>Ask me about how InCare can help people receive private, non-judgmental healthcare from the comfort of their homes.<br><br>Fun fact introverts tend to prefer remote healthcare interactions, and that's exactly what InCare is here to support!
+Hey! Nice to see you.
+Welcome to my page!
+I'm Timothy, Fullstack developer from  Kenya
 
 
 ## 🌐 Socials:
